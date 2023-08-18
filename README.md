@@ -33,3 +33,15 @@
 # Recursion (In C, we can call the function within the function. It provides code reusability for every function. Recursion enables us to use the approach of backtracking.)
 
 # Extensible (C language is extensible because it can easily adopt new features.)
+
+## Creating first program
+
+## Comments
+
+## The preprocessor
+
+## #include statement
+
+## Display output
+
+## Reading input from the terminal
